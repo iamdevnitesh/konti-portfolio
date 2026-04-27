@@ -67,12 +67,12 @@ export const featuredPhotos: Photo[] = [
     "order": 0
   },
   {
-    "slug": "neon-throne-1",
-    "filename": "neon-throne-1.jpg",
-    "src": "/photos/featured/neon-throne-1.jpg",
-    "title": "Neon Throne",
-    "caption": "Holding court under quiet purple light.",
-    "category": "Portrait",
+    "slug": "konti-sleep-image",
+    "filename": "konti-sleep-image.jpg",
+    "src": "/photos/featured/konti-sleep-image.jpg",
+    "title": "Dream Paws",
+    "caption": "Soft sleep, paws raised in surrender to the afternoon.",
+    "category": "Sleep",
     "date": "2026",
     "featured": true,
     "text": {
@@ -87,12 +87,12 @@ export const featuredPhotos: Photo[] = [
     "order": 1
   },
   {
-    "slug": "paws-up-dream",
-    "filename": "paws-up-dream.jpg",
-    "src": "/photos/featured/paws-up-dream.jpg",
-    "title": "Dream Paws",
-    "caption": "Soft sleep, paws raised in surrender to the afternoon.",
-    "category": "Sleep",
+    "slug": "neon-throne-1",
+    "filename": "neon-throne-1.jpg",
+    "src": "/photos/featured/neon-throne-1.jpg",
+    "title": "Neon Throne",
+    "caption": "Holding court under quiet purple light.",
+    "category": "Portrait",
     "date": "2026",
     "featured": true,
     "text": {
