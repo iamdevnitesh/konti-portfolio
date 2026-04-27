@@ -47,9 +47,9 @@ export const heroPhotos: Photo[] = [
 
 export const featuredPhotos: Photo[] = [
   {
-    "slug": "belly-up-couch",
-    "filename": "belly-up-couch.jpg",
-    "src": "/photos/featured/belly-up-couch.jpg",
+    "slug": "konti-nap-architecture",
+    "filename": "konti-nap-architecture.jpg",
+    "src": "/photos/featured/konti-nap-architecture.jpg",
     "title": "Nap Architecture",
     "caption": "A study in stillness, softness, and complete ownership of the sofa.",
     "category": "Sleep",
