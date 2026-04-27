@@ -1,0 +1,310 @@
+{
+  "section": "gallery",
+  "_doc": "Add an entry per image filename to set its title/caption/category/date and on-image text position. Files not listed here will use sensible defaults derived from the filename. Drop a new image into this folder and it will appear automatically on the next build.",
+  "_textPositionFormat": "position.x and position.y accept any CSS length: '10%', '40px', or keywords 'left'|'center'|'right' (x) and 'top'|'middle'|'bottom' (y). align is 'left'|'center'|'right'.",
+  "items": {
+    "sunglasses-cat.png": {
+      "title": "Cool Cat",
+      "caption": "Shades on. Approval pending.",
+      "category": "Portrait",
+      "date": "2026"
+    },
+    "window-watcher-kitten.jpg": {
+      "title": "Window Watcher",
+      "caption": "Watching the world move while refusing to participate.",
+      "category": "Window",
+      "date": "2026"
+    },
+    "future-billionaire-note.jpg": {
+      "title": "Future Billionaire",
+      "caption": "Posing beside a small note of ambition.",
+      "category": "Window",
+      "date": "2026"
+    },
+    "belly-up-couch.jpg": {
+      "title": "Nap Architecture",
+      "caption": "Complete surrender to the cushion.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "alert-on-couch.jpg": {
+      "title": "Alert on the Couch",
+      "caption": "Loafed, but listening.",
+      "category": "Mood",
+      "date": "2026"
+    },
+    "regal-side-profile.jpg": {
+      "title": "Throne Room",
+      "caption": "A long, soft side profile in flat morning light.",
+      "category": "Portrait",
+      "date": "2026"
+    },
+    "golden-eyes-stare.jpg": {
+      "title": "Golden Eyes",
+      "caption": "A direct, unhurried look.",
+      "category": "Portrait",
+      "date": "2026"
+    },
+    "side-eye-portrait.jpg": {
+      "title": "Side Eye",
+      "caption": "Verdict already passed.",
+      "category": "Mood",
+      "date": "2026"
+    },
+    "downward-glance.jpg": {
+      "title": "Downward Glance",
+      "caption": "Studying the floor like it owes him money.",
+      "category": "Mood",
+      "date": "2026"
+    },
+    "upside-down-face.jpg": {
+      "title": "Curious Inversion",
+      "caption": "From below — ears, whiskers, world flipped.",
+      "category": "Mood",
+      "date": "2026"
+    },
+    "peeking-from-corner.jpg": {
+      "title": "Corner Peek",
+      "caption": "A face appears from the edge of the frame.",
+      "category": "Mood",
+      "date": "2026"
+    },
+    "peeking-from-corner-2.jpg": {
+      "title": "Corner Peek II",
+      "caption": "Still watching.",
+      "category": "Mood",
+      "date": "2026"
+    },
+    "eye-macro-side.jpg": {
+      "title": "Macro · Eye",
+      "caption": "An eye, in detail. Whiskers like glass thread.",
+      "category": "Macro",
+      "date": "2026"
+    },
+    "yawn-closeup.jpg": {
+      "title": "The Yawn",
+      "caption": "Tongue, fangs, total disregard.",
+      "category": "Macro",
+      "date": "2026"
+    },
+    "big-eyes-macro.jpg": {
+      "title": "Wide Eyes",
+      "caption": "Two big green-gold lenses, observing.",
+      "category": "Macro",
+      "date": "2026"
+    },
+    "big-eyes-macro-2.jpg": {
+      "title": "Wide Eyes II",
+      "caption": "Same look, fewer pixels of distance.",
+      "category": "Macro",
+      "date": "2026"
+    },
+    "corner-loaf-sepia.jpg": {
+      "title": "Corner Loaf",
+      "caption": "Wedged into the couch corner like he owns the lease.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "corner-loaf-sepia-2.jpg": {
+      "title": "Corner Loaf II",
+      "caption": "Eyes half-open. Still in charge.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "corner-loaf-sepia-3.jpg": {
+      "title": "Corner Loaf III",
+      "caption": "A long stare from the warm corner.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "corner-loaf-bw.jpg": {
+      "title": "Corner Loaf · Mono",
+      "caption": "Same corner, no color.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "bw-corner-alert.jpg": {
+      "title": "Black & White Alert",
+      "caption": "Eyes lit, ears up, body still.",
+      "category": "Portrait",
+      "date": "2026"
+    },
+    "bw-paw-study.jpg": {
+      "title": "Paw Study",
+      "caption": "Crossed paws, considered gaze.",
+      "category": "Portrait",
+      "date": "2026"
+    },
+    "bw-wedged-cushions.jpg": {
+      "title": "Wedged",
+      "caption": "Body folded into the gap between cushions.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "bw-overhead-flop.jpg": {
+      "title": "Overhead Flop",
+      "caption": "Looking up, mid-flop.",
+      "category": "Mood",
+      "date": "2026"
+    },
+    "window-stretch-silhouette.jpg": {
+      "title": "Window Stretch",
+      "caption": "Reaching toward the world through bars.",
+      "category": "Window",
+      "date": "2026"
+    },
+    "windowsill-profile.jpg": {
+      "title": "Windowsill Profile",
+      "caption": "Soft silhouette, blurred trees.",
+      "category": "Window",
+      "date": "2026"
+    },
+    "tall-watch-window.jpg": {
+      "title": "Tall Watch",
+      "caption": "Eye on something only he can see.",
+      "category": "Window",
+      "date": "2026"
+    },
+    "window-glance-back.jpg": {
+      "title": "Glance Back",
+      "caption": "Caught mid-thought, looking back.",
+      "category": "Window",
+      "date": "2026"
+    },
+    "looking-skyward.jpg": {
+      "title": "Looking Skyward",
+      "caption": "A bird, probably. Or nothing at all.",
+      "category": "Window",
+      "date": "2026"
+    },
+    "window-profile-silhouette.jpg": {
+      "title": "Quiet Sill",
+      "caption": "Backlit and still.",
+      "category": "Window",
+      "date": "2026"
+    },
+    "neon-throne-1.jpg": {
+      "title": "Neon Throne I",
+      "caption": "Purple light, hammock chair, total composure.",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "neon-throne-2.jpg": {
+      "title": "Neon Throne II",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "neon-throne-3.jpg": {
+      "title": "Neon Throne III",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "neon-throne-4.jpg": {
+      "title": "Neon Throne IV",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "neon-throne-5.jpg": {
+      "title": "Neon Throne V",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "neon-throne-6.jpg": {
+      "title": "Neon Throne VI",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "neon-throne-7.jpg": {
+      "title": "Neon Throne VII",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "neon-throne-8.jpg": {
+      "title": "Neon Throne VIII",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "neon-throne-9.jpg": {
+      "title": "Neon Throne IX",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "electric-blue-portrait.jpg": {
+      "title": "Electric Blue",
+      "caption": "Sat in pure blue light, calmly aware.",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "electric-blue-alert.jpg": {
+      "title": "Electric Blue · Alert",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "electric-blue-loaf.jpg": {
+      "title": "Electric Blue · Loaf",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "electric-blue-sit.jpg": {
+      "title": "Electric Blue · Sit",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "electric-blue-stare.jpg": {
+      "title": "Electric Blue · Stare",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "chasing-red-dot.jpg": {
+      "title": "Red Dot",
+      "caption": "Locked on. The dot does not stand a chance.",
+      "category": "Action",
+      "date": "2026"
+    },
+    "chasing-red-dot-2.jpg": {
+      "title": "Red Dot II",
+      "caption": "Eyes still on the prize.",
+      "category": "Action",
+      "date": "2026"
+    },
+    "purple-room-collar.jpg": {
+      "title": "Purple Room",
+      "caption": "Collar on. Quiet kingdom.",
+      "category": "Neon",
+      "date": "2026"
+    },
+    "paws-up-dream.jpg": {
+      "title": "Dream Paws",
+      "caption": "Asleep with paws in surrender.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "paws-up-dream-bw.jpg": {
+      "title": "Dream Paws · Mono",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "curled-asleep-bw.jpg": {
+      "title": "Curled",
+      "caption": "Folded into himself, completely gone.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "cradle-paws-bw.jpg": {
+      "title": "Cradle Paws",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "sleepy-smile.jpg": {
+      "title": "Sleepy Smile",
+      "caption": "Eyes shut, tiny smile, perfect peace.",
+      "category": "Sleep",
+      "date": "2026"
+    },
+    "sleepy-smile-bw.jpg": {
+      "title": "Sleepy Smile · Mono",
+      "category": "Sleep",
+      "date": "2026"
+    }
+  }
+}

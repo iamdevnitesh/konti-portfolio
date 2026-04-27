@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js
+web/.next/
+web/out/
+web/next-env.d.ts
+
+# Env
+.env
+.env*.local
+
+# Misc
+*.log
+*.tsbuildinfo

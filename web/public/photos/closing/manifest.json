@@ -1,0 +1,16 @@
+{
+  "section": "closing",
+  "items": {
+    "window-watcher-kitten.jpg": {
+      "title": "Every ordinary day, archived beautifully.",
+      "caption": "",
+      "category": "",
+      "date": "2026",
+      "text": {
+        "position": { "x": "50%", "y": "50%" },
+        "align": "center",
+        "color": "#f2f2f2"
+      }
+    }
+  }
+}

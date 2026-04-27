@@ -1,0 +1,53 @@
+{
+  "section": "featured",
+  "items": {
+    "belly-up-couch.jpg": {
+      "title": "Nap Architecture",
+      "caption": "A study in stillness, softness, and complete ownership of the sofa.",
+      "category": "Sleep",
+      "date": "2026",
+      "featured": true,
+      "text": {
+        "position": { "x": "8%", "y": "82%" },
+        "align": "left",
+        "color": "#f2f2f2"
+      }
+    },
+    "upside-down-face.jpg": {
+      "title": "Curious Inversion",
+      "caption": "Studying the human from upside down, as one does.",
+      "category": "Mood",
+      "date": "2026",
+      "featured": true,
+      "text": {
+        "position": { "x": "8%", "y": "82%" },
+        "align": "left",
+        "color": "#f2f2f2"
+      }
+    },
+    "neon-throne-1.jpg": {
+      "title": "Neon Throne",
+      "caption": "Holding court under quiet purple light.",
+      "category": "Portrait",
+      "date": "2026",
+      "featured": true,
+      "text": {
+        "position": { "x": "8%", "y": "82%" },
+        "align": "left",
+        "color": "#f2f2f2"
+      }
+    },
+    "paws-up-dream.jpg": {
+      "title": "Dream Paws",
+      "caption": "Soft sleep, paws raised in surrender to the afternoon.",
+      "category": "Sleep",
+      "date": "2026",
+      "featured": true,
+      "text": {
+        "position": { "x": "8%", "y": "82%" },
+        "align": "left",
+        "color": "#f2f2f2"
+      }
+    }
+  }
+}
