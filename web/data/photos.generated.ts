@@ -24,9 +24,9 @@ export type Photo = {
 
 export const heroPhotos: Photo[] = [
   {
-    "slug": "regal-side-profile",
-    "filename": "regal-side-profile.jpg",
-    "src": "/photos/hero/regal-side-profile.jpg",
+    "slug": "konti-hero-image",
+    "filename": "konti-hero-image.jpg",
+    "src": "/photos/hero/konti-hero-image.jpg",
     "title": "konti",
     "caption": "A cinematic archive of quiet chaos, soft paws, and royal attitude.",
     "category": "Portrait",
@@ -34,10 +34,10 @@ export const heroPhotos: Photo[] = [
     "featured": false,
     "text": {
       "position": {
-        "x": "50%",
-        "y": "50%"
+        "x": "8%",
+        "y": "75%"
       },
-      "align": "center",
+      "align": "left",
       "color": "#f2f2f2"
     },
     "section": "hero",
