@@ -19,6 +19,9 @@ export default function GalleryPage() {
           press <span className="text-bone">i</span> for context, arrows to
           navigate, esc to close.
         </p>
+        <p className="mt-3 max-w-md text-[11px] uppercase tracking-[0.22em] text-muted/80">
+          All photographs upscaled with AI — contents unaltered.
+        </p>
       </Reveal>
 
       <div className="mt-16 md:mt-24">

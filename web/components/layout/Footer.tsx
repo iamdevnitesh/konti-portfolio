@@ -30,8 +30,9 @@ export default function Footer() {
           </button>
         </div>
       </div>
-      <div className="container-wide pb-6 text-[10px] uppercase tracking-[0.3em] text-muted">
-        © {new Date().getFullYear()} — archived with care
+      <div className="container-wide pb-6 flex flex-col gap-2 md:flex-row md:items-center md:justify-between text-[10px] uppercase tracking-[0.3em] text-muted">
+        <span>© {new Date().getFullYear()} — archived with care</span>
+        <span>Photographs upscaled with AI · contents unaltered</span>
       </div>
     </footer>
   );

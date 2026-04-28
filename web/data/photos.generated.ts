@@ -390,186 +390,6 @@ export const galleryPhotos: Photo[] = [
     "order": 12
   },
   {
-    "slug": "neon-throne-1",
-    "filename": "neon-throne-1.jpg",
-    "src": "/photos/gallery/neon-throne-1.jpg",
-    "title": "Neon Throne I",
-    "caption": "Purple light, hammock chair, total composure.",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 13
-  },
-  {
-    "slug": "neon-throne-2",
-    "filename": "neon-throne-2.jpg",
-    "src": "/photos/gallery/neon-throne-2.jpg",
-    "title": "Neon Throne II",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 14
-  },
-  {
-    "slug": "neon-throne-3",
-    "filename": "neon-throne-3.jpg",
-    "src": "/photos/gallery/neon-throne-3.jpg",
-    "title": "Neon Throne III",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 15
-  },
-  {
-    "slug": "neon-throne-4",
-    "filename": "neon-throne-4.jpg",
-    "src": "/photos/gallery/neon-throne-4.jpg",
-    "title": "Neon Throne IV",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 16
-  },
-  {
-    "slug": "neon-throne-5",
-    "filename": "neon-throne-5.jpg",
-    "src": "/photos/gallery/neon-throne-5.jpg",
-    "title": "Neon Throne V",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 17
-  },
-  {
-    "slug": "neon-throne-6",
-    "filename": "neon-throne-6.jpg",
-    "src": "/photos/gallery/neon-throne-6.jpg",
-    "title": "Neon Throne VI",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 18
-  },
-  {
-    "slug": "neon-throne-7",
-    "filename": "neon-throne-7.jpg",
-    "src": "/photos/gallery/neon-throne-7.jpg",
-    "title": "Neon Throne VII",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 19
-  },
-  {
-    "slug": "neon-throne-8",
-    "filename": "neon-throne-8.jpg",
-    "src": "/photos/gallery/neon-throne-8.jpg",
-    "title": "Neon Throne VIII",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 20
-  },
-  {
-    "slug": "neon-throne-9",
-    "filename": "neon-throne-9.jpg",
-    "src": "/photos/gallery/neon-throne-9.jpg",
-    "title": "Neon Throne IX",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 21
-  },
-  {
     "slug": "paws-up-dream-bw",
     "filename": "paws-up-dream-bw.jpg",
     "src": "/photos/gallery/paws-up-dream-bw.jpg",
@@ -587,7 +407,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 22
+    "order": 13
   },
   {
     "slug": "paws-up-dream",
@@ -607,7 +427,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 23
+    "order": 14
   },
   {
     "slug": "regal-side-profile",
@@ -627,7 +447,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 24
+    "order": 15
   },
   {
     "slug": "side-eye-portrait",
@@ -647,7 +467,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 25
+    "order": 16
   },
   {
     "slug": "sleepy-smile-bw",
@@ -667,7 +487,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 26
+    "order": 17
   },
   {
     "slug": "sleepy-smile",
@@ -687,7 +507,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 27
+    "order": 18
   },
   {
     "slug": "sunglasses-cat",
@@ -707,7 +527,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 28
+    "order": 19
   },
   {
     "slug": "tall-watch-window",
@@ -727,7 +547,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 29
+    "order": 20
   },
   {
     "slug": "upside-down-face",
@@ -747,7 +567,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 30
+    "order": 21
   },
   {
     "slug": "window-glance-back",
@@ -767,7 +587,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 31
+    "order": 22
   },
   {
     "slug": "window-profile-silhouette",
@@ -787,7 +607,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 32
+    "order": 23
   },
   {
     "slug": "window-stretch-silhouette",
@@ -807,7 +627,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 33
+    "order": 24
   },
   {
     "slug": "window-watcher-kitten",
@@ -827,7 +647,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 34
+    "order": 25
   },
   {
     "slug": "windowsill-profile",
@@ -847,7 +667,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 35
+    "order": 26
   }
 ];
 
