@@ -47,6 +47,26 @@ export const heroPhotos: Photo[] = [
 
 export const featuredPhotos: Photo[] = [
   {
+    "slug": "konti-curious-image",
+    "filename": "konti-curious-image.jpg",
+    "src": "/photos/featured/konti-curious-image.jpg",
+    "title": "Curious Inversion",
+    "caption": "Studying the human from upside down, as one does.",
+    "category": "Mood",
+    "date": "2026",
+    "featured": true,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "featured",
+    "order": 0
+  },
+  {
     "slug": "konti-nap-architecture",
     "filename": "konti-nap-architecture.jpg",
     "src": "/photos/featured/konti-nap-architecture.jpg",
@@ -64,7 +84,7 @@ export const featuredPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "featured",
-    "order": 0
+    "order": 1
   },
   {
     "slug": "konti-sleep-image",
@@ -84,35 +104,15 @@ export const featuredPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "featured",
-    "order": 1
-  },
-  {
-    "slug": "neon-throne-1",
-    "filename": "neon-throne-1.jpg",
-    "src": "/photos/featured/neon-throne-1.jpg",
-    "title": "Neon Throne",
-    "caption": "Holding court under quiet purple light.",
-    "category": "Portrait",
-    "date": "2026",
-    "featured": true,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "featured",
     "order": 2
   },
   {
-    "slug": "upside-down-face",
-    "filename": "upside-down-face.jpg",
-    "src": "/photos/featured/upside-down-face.jpg",
-    "title": "Curious Inversion",
-    "caption": "Studying the human from upside down, as one does.",
-    "category": "Mood",
+    "slug": "konti-throne-image",
+    "filename": "konti-throne-image.jpg",
+    "src": "/photos/featured/konti-throne-image.jpg",
+    "title": "Neon Throne",
+    "caption": "Holding court under quiet purple light.",
+    "category": "Portrait",
     "date": "2026",
     "featured": true,
     "text": {
@@ -129,166 +129,6 @@ export const featuredPhotos: Photo[] = [
 ];
 
 export const galleryPhotos: Photo[] = [
-  {
-    "slug": "alert-on-couch",
-    "filename": "alert-on-couch.jpg",
-    "src": "/photos/gallery/alert-on-couch.jpg",
-    "title": "Alert on the Couch",
-    "caption": "Loafed, but listening.",
-    "category": "Mood",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 0
-  },
-  {
-    "slug": "belly-up-couch",
-    "filename": "belly-up-couch.jpg",
-    "src": "/photos/gallery/belly-up-couch.jpg",
-    "title": "Nap Architecture",
-    "caption": "Complete surrender to the cushion.",
-    "category": "Sleep",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 1
-  },
-  {
-    "slug": "big-eyes-macro-2",
-    "filename": "big-eyes-macro-2.jpg",
-    "src": "/photos/gallery/big-eyes-macro-2.jpg",
-    "title": "Wide Eyes II",
-    "caption": "Same look, fewer pixels of distance.",
-    "category": "Macro",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 2
-  },
-  {
-    "slug": "big-eyes-macro",
-    "filename": "big-eyes-macro.jpg",
-    "src": "/photos/gallery/big-eyes-macro.jpg",
-    "title": "Wide Eyes",
-    "caption": "Two big green-gold lenses, observing.",
-    "category": "Macro",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 3
-  },
-  {
-    "slug": "bw-corner-alert",
-    "filename": "bw-corner-alert.jpg",
-    "src": "/photos/gallery/bw-corner-alert.jpg",
-    "title": "Black & White Alert",
-    "caption": "Eyes lit, ears up, body still.",
-    "category": "Portrait",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 4
-  },
-  {
-    "slug": "bw-overhead-flop",
-    "filename": "bw-overhead-flop.jpg",
-    "src": "/photos/gallery/bw-overhead-flop.jpg",
-    "title": "Overhead Flop",
-    "caption": "Looking up, mid-flop.",
-    "category": "Mood",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 5
-  },
-  {
-    "slug": "bw-paw-study",
-    "filename": "bw-paw-study.jpg",
-    "src": "/photos/gallery/bw-paw-study.jpg",
-    "title": "Paw Study",
-    "caption": "Crossed paws, considered gaze.",
-    "category": "Portrait",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 6
-  },
-  {
-    "slug": "bw-wedged-cushions",
-    "filename": "bw-wedged-cushions.jpg",
-    "src": "/photos/gallery/bw-wedged-cushions.jpg",
-    "title": "Wedged",
-    "caption": "Body folded into the gap between cushions.",
-    "category": "Sleep",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 7
-  },
   {
     "slug": "chasing-red-dot-2",
     "filename": "chasing-red-dot-2.jpg",
@@ -307,7 +147,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 8
+    "order": 0
   },
   {
     "slug": "chasing-red-dot",
@@ -327,87 +167,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 9
-  },
-  {
-    "slug": "corner-loaf-bw",
-    "filename": "corner-loaf-bw.jpg",
-    "src": "/photos/gallery/corner-loaf-bw.jpg",
-    "title": "Corner Loaf · Mono",
-    "caption": "Same corner, no color.",
-    "category": "Sleep",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 10
-  },
-  {
-    "slug": "corner-loaf-sepia-2",
-    "filename": "corner-loaf-sepia-2.jpg",
-    "src": "/photos/gallery/corner-loaf-sepia-2.jpg",
-    "title": "Corner Loaf II",
-    "caption": "Eyes half-open. Still in charge.",
-    "category": "Sleep",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 11
-  },
-  {
-    "slug": "corner-loaf-sepia-3",
-    "filename": "corner-loaf-sepia-3.jpg",
-    "src": "/photos/gallery/corner-loaf-sepia-3.jpg",
-    "title": "Corner Loaf III",
-    "caption": "A long stare from the warm corner.",
-    "category": "Sleep",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 12
-  },
-  {
-    "slug": "corner-loaf-sepia",
-    "filename": "corner-loaf-sepia.jpg",
-    "src": "/photos/gallery/corner-loaf-sepia.jpg",
-    "title": "Corner Loaf",
-    "caption": "Wedged into the couch corner like he owns the lease.",
-    "category": "Sleep",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 13
+    "order": 1
   },
   {
     "slug": "cradle-paws-bw",
@@ -427,7 +187,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 14
+    "order": 2
   },
   {
     "slug": "curled-asleep-bw",
@@ -447,7 +207,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 15
+    "order": 3
   },
   {
     "slug": "downward-glance",
@@ -467,7 +227,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 16
+    "order": 4
   },
   {
     "slug": "electric-blue-alert",
@@ -487,7 +247,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 17
+    "order": 5
   },
   {
     "slug": "electric-blue-loaf",
@@ -507,7 +267,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 18
+    "order": 6
   },
   {
     "slug": "electric-blue-portrait",
@@ -527,7 +287,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 19
+    "order": 7
   },
   {
     "slug": "electric-blue-sit",
@@ -547,7 +307,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 20
+    "order": 8
   },
   {
     "slug": "electric-blue-stare",
@@ -567,7 +327,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 21
+    "order": 9
   },
   {
     "slug": "eye-macro-side",
@@ -587,7 +347,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 22
+    "order": 10
   },
   {
     "slug": "future-billionaire-note",
@@ -607,7 +367,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 23
+    "order": 11
   },
   {
     "slug": "golden-eyes-stare",
@@ -627,7 +387,87 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 24
+    "order": 12
+  },
+  {
+    "slug": "konti-alert-on-the-couch",
+    "filename": "konti-alert-on-the-couch.jpg",
+    "src": "/photos/gallery/konti-alert-on-the-couch.jpg",
+    "title": "Alert on the Couch",
+    "caption": "Loafed, but listening.",
+    "category": "Mood",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 13
+  },
+  {
+    "slug": "konti-black-and-white",
+    "filename": "konti-black-and-white.jpg",
+    "src": "/photos/gallery/konti-black-and-white.jpg",
+    "title": "Black & White Alert",
+    "caption": "Eyes lit, ears up, body still.",
+    "category": "Portrait",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 14
+  },
+  {
+    "slug": "konti-nap-architecture",
+    "filename": "konti-nap-architecture.jpg",
+    "src": "/photos/gallery/konti-nap-architecture.jpg",
+    "title": "Nap Architecture",
+    "caption": "Complete surrender to the cushion.",
+    "category": "Sleep",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 15
+  },
+  {
+    "slug": "konti-wide-eyes",
+    "filename": "konti-wide-eyes.jpg",
+    "src": "/photos/gallery/konti-wide-eyes.jpg",
+    "title": "Wide Eyes",
+    "caption": "Two big green-gold lenses, observing.",
+    "category": "Macro",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 16
   },
   {
     "slug": "looking-skyward",
@@ -647,7 +487,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 25
+    "order": 17
   },
   {
     "slug": "neon-throne-1",
@@ -667,7 +507,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 26
+    "order": 18
   },
   {
     "slug": "neon-throne-2",
@@ -687,7 +527,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 27
+    "order": 19
   },
   {
     "slug": "neon-throne-3",
@@ -707,7 +547,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 28
+    "order": 20
   },
   {
     "slug": "neon-throne-4",
@@ -727,7 +567,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 29
+    "order": 21
   },
   {
     "slug": "neon-throne-5",
@@ -747,7 +587,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 30
+    "order": 22
   },
   {
     "slug": "neon-throne-6",
@@ -767,7 +607,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 31
+    "order": 23
   },
   {
     "slug": "neon-throne-7",
@@ -787,7 +627,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 32
+    "order": 24
   },
   {
     "slug": "neon-throne-8",
@@ -807,7 +647,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 33
+    "order": 25
   },
   {
     "slug": "neon-throne-9",
@@ -827,7 +667,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 34
+    "order": 26
   },
   {
     "slug": "paws-up-dream-bw",
@@ -847,7 +687,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 35
+    "order": 27
   },
   {
     "slug": "paws-up-dream",
@@ -867,7 +707,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 36
+    "order": 28
   },
   {
     "slug": "peeking-from-corner-2",
@@ -887,7 +727,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 37
+    "order": 29
   },
   {
     "slug": "peeking-from-corner",
@@ -907,7 +747,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 38
+    "order": 30
   },
   {
     "slug": "purple-room-collar",
@@ -927,7 +767,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 39
+    "order": 31
   },
   {
     "slug": "regal-side-profile",
@@ -947,7 +787,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 40
+    "order": 32
   },
   {
     "slug": "side-eye-portrait",
@@ -967,7 +807,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 41
+    "order": 33
   },
   {
     "slug": "sleepy-smile-bw",
@@ -987,7 +827,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 42
+    "order": 34
   },
   {
     "slug": "sleepy-smile",
@@ -1007,7 +847,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 43
+    "order": 35
   },
   {
     "slug": "sunglasses-cat",
@@ -1027,7 +867,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 44
+    "order": 36
   },
   {
     "slug": "tall-watch-window",
@@ -1047,7 +887,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 45
+    "order": 37
   },
   {
     "slug": "upside-down-face",
@@ -1067,7 +907,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 46
+    "order": 38
   },
   {
     "slug": "window-glance-back",
@@ -1087,7 +927,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 47
+    "order": 39
   },
   {
     "slug": "window-profile-silhouette",
@@ -1107,7 +947,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 48
+    "order": 40
   },
   {
     "slug": "window-stretch-silhouette",
@@ -1127,7 +967,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 49
+    "order": 41
   },
   {
     "slug": "window-watcher-kitten",
@@ -1147,7 +987,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 50
+    "order": 42
   },
   {
     "slug": "windowsill-profile",
@@ -1167,7 +1007,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 51
+    "order": 43
   },
   {
     "slug": "yawn-closeup",
@@ -1187,7 +1027,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 52
+    "order": 44
   }
 ];
 
