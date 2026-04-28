@@ -15,7 +15,7 @@
       "category": "Window",
       "date": "2026"
     },
-    "future-billionaire-note.jpg": {
+    "konti-future-billionaire.jpg": {
       "title": "Future Billionaire",
       "caption": "Posing beside a small note of ambition.",
       "category": "Window",
@@ -51,7 +51,7 @@
       "category": "Mood",
       "date": "2026"
     },
-    "downward-glance.jpg": {
+    "konti-downward-glance.jpg": {
       "title": "Downward Glance",
       "caption": "Studying the floor like it owes him money.",
       "category": "Mood",
@@ -63,25 +63,19 @@
       "category": "Mood",
       "date": "2026"
     },
-    "peeking-from-corner.jpg": {
+    "konti-corner-peek.jpg": {
       "title": "Corner Peek",
       "caption": "A face appears from the edge of the frame.",
       "category": "Mood",
       "date": "2026"
     },
-    "peeking-from-corner-2.jpg": {
-      "title": "Corner Peek II",
-      "caption": "Still watching.",
-      "category": "Mood",
-      "date": "2026"
-    },
-    "eye-macro-side.jpg": {
+"konti-close-calls.jpg": {
       "title": "Macro · Eye",
       "caption": "An eye, in detail. Whiskers like glass thread.",
       "category": "Macro",
       "date": "2026"
     },
-    "yawn-closeup.jpg": {
+    "konti-yawn-image.jpg": {
       "title": "The Yawn",
       "caption": "Tongue, fangs, total disregard.",
       "category": "Macro",
@@ -181,51 +175,12 @@
       "category": "Neon",
       "date": "2026"
     },
-    "electric-blue-portrait.jpg": {
-      "title": "Electric Blue",
-      "caption": "Sat in pure blue light, calmly aware.",
-      "category": "Neon",
-      "date": "2026"
-    },
-    "electric-blue-alert.jpg": {
+    "konti-throne.jpg": {
       "title": "Electric Blue · Alert",
       "category": "Neon",
       "date": "2026"
     },
-    "electric-blue-loaf.jpg": {
-      "title": "Electric Blue · Loaf",
-      "category": "Neon",
-      "date": "2026"
-    },
-    "electric-blue-sit.jpg": {
-      "title": "Electric Blue · Sit",
-      "category": "Neon",
-      "date": "2026"
-    },
-    "electric-blue-stare.jpg": {
-      "title": "Electric Blue · Stare",
-      "category": "Neon",
-      "date": "2026"
-    },
-    "chasing-red-dot.jpg": {
-      "title": "Red Dot",
-      "caption": "Locked on. The dot does not stand a chance.",
-      "category": "Action",
-      "date": "2026"
-    },
-    "chasing-red-dot-2.jpg": {
-      "title": "Red Dot II",
-      "caption": "Eyes still on the prize.",
-      "category": "Action",
-      "date": "2026"
-    },
-    "purple-room-collar.jpg": {
-      "title": "Purple Room",
-      "caption": "Collar on. Quiet kingdom.",
-      "category": "Neon",
-      "date": "2026"
-    },
-    "paws-up-dream.jpg": {
+"paws-up-dream.jpg": {
       "title": "Dream Paws",
       "caption": "Asleep with paws in surrender.",
       "category": "Sleep",
@@ -236,13 +191,7 @@
       "category": "Sleep",
       "date": "2026"
     },
-    "curled-asleep-bw.jpg": {
-      "title": "Curled",
-      "caption": "Folded into himself, completely gone.",
-      "category": "Sleep",
-      "date": "2026"
-    },
-    "cradle-paws-bw.jpg": {
+    "konti-sleep.jpg": {
       "title": "Cradle Paws",
       "category": "Sleep",
       "date": "2026"

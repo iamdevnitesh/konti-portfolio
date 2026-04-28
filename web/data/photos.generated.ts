@@ -130,246 +130,6 @@ export const featuredPhotos: Photo[] = [
 
 export const galleryPhotos: Photo[] = [
   {
-    "slug": "chasing-red-dot-2",
-    "filename": "chasing-red-dot-2.jpg",
-    "src": "/photos/gallery/chasing-red-dot-2.jpg",
-    "title": "Red Dot II",
-    "caption": "Eyes still on the prize.",
-    "category": "Action",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 0
-  },
-  {
-    "slug": "chasing-red-dot",
-    "filename": "chasing-red-dot.jpg",
-    "src": "/photos/gallery/chasing-red-dot.jpg",
-    "title": "Red Dot",
-    "caption": "Locked on. The dot does not stand a chance.",
-    "category": "Action",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 1
-  },
-  {
-    "slug": "cradle-paws-bw",
-    "filename": "cradle-paws-bw.jpg",
-    "src": "/photos/gallery/cradle-paws-bw.jpg",
-    "title": "Cradle Paws",
-    "caption": "",
-    "category": "Sleep",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 2
-  },
-  {
-    "slug": "curled-asleep-bw",
-    "filename": "curled-asleep-bw.jpg",
-    "src": "/photos/gallery/curled-asleep-bw.jpg",
-    "title": "Curled",
-    "caption": "Folded into himself, completely gone.",
-    "category": "Sleep",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 3
-  },
-  {
-    "slug": "downward-glance",
-    "filename": "downward-glance.jpg",
-    "src": "/photos/gallery/downward-glance.jpg",
-    "title": "Downward Glance",
-    "caption": "Studying the floor like it owes him money.",
-    "category": "Mood",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 4
-  },
-  {
-    "slug": "electric-blue-alert",
-    "filename": "electric-blue-alert.jpg",
-    "src": "/photos/gallery/electric-blue-alert.jpg",
-    "title": "Electric Blue · Alert",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 5
-  },
-  {
-    "slug": "electric-blue-loaf",
-    "filename": "electric-blue-loaf.jpg",
-    "src": "/photos/gallery/electric-blue-loaf.jpg",
-    "title": "Electric Blue · Loaf",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 6
-  },
-  {
-    "slug": "electric-blue-portrait",
-    "filename": "electric-blue-portrait.jpg",
-    "src": "/photos/gallery/electric-blue-portrait.jpg",
-    "title": "Electric Blue",
-    "caption": "Sat in pure blue light, calmly aware.",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 7
-  },
-  {
-    "slug": "electric-blue-sit",
-    "filename": "electric-blue-sit.jpg",
-    "src": "/photos/gallery/electric-blue-sit.jpg",
-    "title": "Electric Blue · Sit",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 8
-  },
-  {
-    "slug": "electric-blue-stare",
-    "filename": "electric-blue-stare.jpg",
-    "src": "/photos/gallery/electric-blue-stare.jpg",
-    "title": "Electric Blue · Stare",
-    "caption": "",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 9
-  },
-  {
-    "slug": "eye-macro-side",
-    "filename": "eye-macro-side.jpg",
-    "src": "/photos/gallery/eye-macro-side.jpg",
-    "title": "Macro · Eye",
-    "caption": "An eye, in detail. Whiskers like glass thread.",
-    "category": "Macro",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 10
-  },
-  {
-    "slug": "future-billionaire-note",
-    "filename": "future-billionaire-note.jpg",
-    "src": "/photos/gallery/future-billionaire-note.jpg",
-    "title": "Future Billionaire",
-    "caption": "Posing beside a small note of ambition.",
-    "category": "Window",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 11
-  },
-  {
     "slug": "golden-eyes-stare",
     "filename": "golden-eyes-stare.jpg",
     "src": "/photos/gallery/golden-eyes-stare.jpg",
@@ -387,7 +147,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 12
+    "order": 0
   },
   {
     "slug": "konti-alert-on-the-couch",
@@ -407,7 +167,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 13
+    "order": 1
   },
   {
     "slug": "konti-black-and-white",
@@ -427,7 +187,87 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 14
+    "order": 2
+  },
+  {
+    "slug": "konti-close-calls",
+    "filename": "konti-close-calls.jpg",
+    "src": "/photos/gallery/konti-close-calls.jpg",
+    "title": "Macro · Eye",
+    "caption": "An eye, in detail. Whiskers like glass thread.",
+    "category": "Macro",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 3
+  },
+  {
+    "slug": "konti-corner-peek",
+    "filename": "konti-corner-peek.jpg",
+    "src": "/photos/gallery/konti-corner-peek.jpg",
+    "title": "Corner Peek",
+    "caption": "A face appears from the edge of the frame.",
+    "category": "Mood",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 4
+  },
+  {
+    "slug": "konti-downward-glance",
+    "filename": "konti-downward-glance.jpg",
+    "src": "/photos/gallery/konti-downward-glance.jpg",
+    "title": "Downward Glance",
+    "caption": "Studying the floor like it owes him money.",
+    "category": "Mood",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 5
+  },
+  {
+    "slug": "konti-future-billionaire",
+    "filename": "konti-future-billionaire.jpg",
+    "src": "/photos/gallery/konti-future-billionaire.jpg",
+    "title": "Future Billionaire",
+    "caption": "Posing beside a small note of ambition.",
+    "category": "Window",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 6
   },
   {
     "slug": "konti-nap-architecture",
@@ -447,7 +287,47 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 15
+    "order": 7
+  },
+  {
+    "slug": "konti-sleep",
+    "filename": "konti-sleep.jpg",
+    "src": "/photos/gallery/konti-sleep.jpg",
+    "title": "Cradle Paws",
+    "caption": "",
+    "category": "Sleep",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 8
+  },
+  {
+    "slug": "konti-throne",
+    "filename": "konti-throne.jpg",
+    "src": "/photos/gallery/konti-throne.jpg",
+    "title": "Electric Blue · Alert",
+    "caption": "",
+    "category": "Neon",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 9
   },
   {
     "slug": "konti-wide-eyes",
@@ -467,7 +347,27 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 16
+    "order": 10
+  },
+  {
+    "slug": "konti-yawn-image",
+    "filename": "konti-yawn-image.jpg",
+    "src": "/photos/gallery/konti-yawn-image.jpg",
+    "title": "The Yawn",
+    "caption": "Tongue, fangs, total disregard.",
+    "category": "Macro",
+    "date": "2026",
+    "featured": false,
+    "text": {
+      "position": {
+        "x": "8%",
+        "y": "82%"
+      },
+      "align": "left",
+      "color": "#f2f2f2"
+    },
+    "section": "gallery",
+    "order": 11
   },
   {
     "slug": "looking-skyward",
@@ -487,7 +387,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 17
+    "order": 12
   },
   {
     "slug": "neon-throne-1",
@@ -507,7 +407,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 18
+    "order": 13
   },
   {
     "slug": "neon-throne-2",
@@ -527,7 +427,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 19
+    "order": 14
   },
   {
     "slug": "neon-throne-3",
@@ -547,7 +447,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 20
+    "order": 15
   },
   {
     "slug": "neon-throne-4",
@@ -567,7 +467,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 21
+    "order": 16
   },
   {
     "slug": "neon-throne-5",
@@ -587,7 +487,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 22
+    "order": 17
   },
   {
     "slug": "neon-throne-6",
@@ -607,7 +507,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 23
+    "order": 18
   },
   {
     "slug": "neon-throne-7",
@@ -627,7 +527,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 24
+    "order": 19
   },
   {
     "slug": "neon-throne-8",
@@ -647,7 +547,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 25
+    "order": 20
   },
   {
     "slug": "neon-throne-9",
@@ -667,7 +567,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 26
+    "order": 21
   },
   {
     "slug": "paws-up-dream-bw",
@@ -687,7 +587,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 27
+    "order": 22
   },
   {
     "slug": "paws-up-dream",
@@ -707,67 +607,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 28
-  },
-  {
-    "slug": "peeking-from-corner-2",
-    "filename": "peeking-from-corner-2.jpg",
-    "src": "/photos/gallery/peeking-from-corner-2.jpg",
-    "title": "Corner Peek II",
-    "caption": "Still watching.",
-    "category": "Mood",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 29
-  },
-  {
-    "slug": "peeking-from-corner",
-    "filename": "peeking-from-corner.jpg",
-    "src": "/photos/gallery/peeking-from-corner.jpg",
-    "title": "Corner Peek",
-    "caption": "A face appears from the edge of the frame.",
-    "category": "Mood",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 30
-  },
-  {
-    "slug": "purple-room-collar",
-    "filename": "purple-room-collar.jpg",
-    "src": "/photos/gallery/purple-room-collar.jpg",
-    "title": "Purple Room",
-    "caption": "Collar on. Quiet kingdom.",
-    "category": "Neon",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 31
+    "order": 23
   },
   {
     "slug": "regal-side-profile",
@@ -787,7 +627,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 32
+    "order": 24
   },
   {
     "slug": "side-eye-portrait",
@@ -807,7 +647,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 33
+    "order": 25
   },
   {
     "slug": "sleepy-smile-bw",
@@ -827,7 +667,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 34
+    "order": 26
   },
   {
     "slug": "sleepy-smile",
@@ -847,7 +687,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 35
+    "order": 27
   },
   {
     "slug": "sunglasses-cat",
@@ -867,7 +707,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 36
+    "order": 28
   },
   {
     "slug": "tall-watch-window",
@@ -887,7 +727,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 37
+    "order": 29
   },
   {
     "slug": "upside-down-face",
@@ -907,7 +747,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 38
+    "order": 30
   },
   {
     "slug": "window-glance-back",
@@ -927,7 +767,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 39
+    "order": 31
   },
   {
     "slug": "window-profile-silhouette",
@@ -947,7 +787,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 40
+    "order": 32
   },
   {
     "slug": "window-stretch-silhouette",
@@ -967,7 +807,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 41
+    "order": 33
   },
   {
     "slug": "window-watcher-kitten",
@@ -987,7 +827,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 42
+    "order": 34
   },
   {
     "slug": "windowsill-profile",
@@ -1007,27 +847,7 @@ export const galleryPhotos: Photo[] = [
       "color": "#f2f2f2"
     },
     "section": "gallery",
-    "order": 43
-  },
-  {
-    "slug": "yawn-closeup",
-    "filename": "yawn-closeup.jpg",
-    "src": "/photos/gallery/yawn-closeup.jpg",
-    "title": "The Yawn",
-    "caption": "Tongue, fangs, total disregard.",
-    "category": "Macro",
-    "date": "2026",
-    "featured": false,
-    "text": {
-      "position": {
-        "x": "8%",
-        "y": "82%"
-      },
-      "align": "left",
-      "color": "#f2f2f2"
-    },
-    "section": "gallery",
-    "order": 44
+    "order": 35
   }
 ];
 
